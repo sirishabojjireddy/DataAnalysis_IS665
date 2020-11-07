@@ -23,6 +23,7 @@ DELIVERABLE:
 
 
 PROJECT2:
+
 In this project, each team will use a publicly available data set, define a mining problem, then use at least TWO different mining algorithms to mine the data set. Compare the performance of the two models, choose the better one, and interpret your findings. Teams will write a report summarizing their findings. The report is due at the end of the semester.
 
 To look for a data set, you can go to kaggle,com or UC Urvine machine learning data repository. There are plenty of data for you to choose from. Make sure you read files that describe the data before you engage in mining.
