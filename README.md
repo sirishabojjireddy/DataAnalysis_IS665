@@ -46,3 +46,5 @@ Part IV: Evaluation. The most important part. You will address the following iss
 a. Do you choose precision or recall as the main measure for your task? Why?
 
 b. Show the confusion matrix for the two algorithms. Which one is better? 
+
+Project Link - https://public.tableau.com/profile/sirisha.bojjireddy#!/vizhome/BankData_15736791328020/Story1
